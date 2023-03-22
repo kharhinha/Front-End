@@ -1,3 +1,3 @@
 # Front-End
 Portafolio
-Actualización tardia
+Estado: estatico
